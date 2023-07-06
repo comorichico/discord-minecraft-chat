@@ -1,0 +1,2 @@
+# discord-minecraft-chat
+discordとminecraftで相互チャットするやつだよ！minecraftのバニラサーバーで使えるよ
