@@ -6,7 +6,6 @@ import discord
 from dotenv import load_dotenv
 from discord.ext import tasks
 from concurrent.futures import ThreadPoolExecutor
-import time
 from watchdog.events import FileSystemEventHandler
 from watchdog.observers.polling import PollingObserver
 
