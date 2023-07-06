@@ -1,6 +1,9 @@
 # discord-minecraft-chat
 discordとminecraftで相互チャットするやつだよ！minecraftのバニラサーバーで使えるよ
 
+<img width="291" alt="2023-07-07 (3)" src="https://github.com/comorichico/discord-minecraft-chat/assets/96755854/9d10cfef-3b89-467d-8a65-415198fb4d6b">
+<img width="1282" alt="2023-07-07 (2)" src="https://github.com/comorichico/discord-minecraft-chat/assets/96755854/b953d402-4c37-42bd-9882-5236ca308901">
+
 使い方
 
 Microsoft StoreからPython3.10をインストールする
